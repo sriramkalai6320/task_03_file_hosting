@@ -1,18 +1,11 @@
 {
-  "name": "task_2",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+
+
   "scripts": {
-    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+
   "devDependencies": {
     "tailwindcss": "^3.3.2"
-  },
-  "dependencies": {
-    "json-server": "^0.17.3"
   }
 }
