@@ -200,5 +200,17 @@
         }
         
 
+    ],
+     "footer":[
+        {
+            "brandlogo":"https://i.ibb.co/6FQDdXC/Logo.png",
+            "quotes":"Our vision is to provide convenience and help increase your sales business."
+        },
+        {
+            "about":["About","How it works","Featured","Partnership","Bussiness Relation"],
+            "socials":["Socials","Discord","Instagram","Twitter","Facebook"],
+            "community":["Community","Events","Blog","Podcast","Invite a friend"],
+            "terms":["Privacy & Policy","Terms & Condition","©2022 MORENT. All rights reserved"]                      
+        }
     ]
 }
