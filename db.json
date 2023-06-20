@@ -216,8 +216,10 @@
     "bannerdetails":{
         "header":[
         {
-            "brandlogo":"https://i.ibb.co/6FQDdXC/Logo.png",
-            "profileImage":"https://i.ibb.co/JdCVtvT/profile.png"
+            "brandlogomobile":"https://i.ibb.co/6FQDdXC/Logo.png",
+            "profileImage":"https://i.ibb.co/JdCVtvT/profile.png",
+            "brandlogodes":"https://i.ibb.co/SrWLLTQ/Logo-1.png"
+
 
         }
     ],
